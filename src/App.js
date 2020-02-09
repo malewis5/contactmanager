@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
-import Contacts from "./components/Contacts";
-import Header from "./components/Header";
+import Contacts from "./components/Contacts/Contacts";
+import Header from "./components/Layout/Header";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Provider } from "./context";
 
