@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/contactmanager/static/css/main.5facb584.chunk.css",
-    "main.js": "/contactmanager/static/js/main.1303fe4f.chunk.js",
-    "main.js.map": "/contactmanager/static/js/main.1303fe4f.chunk.js.map",
+    "main.js": "/contactmanager/static/js/main.4ff03063.chunk.js",
+    "main.js.map": "/contactmanager/static/js/main.4ff03063.chunk.js.map",
     "runtime-main.js": "/contactmanager/static/js/runtime-main.a2c60360.js",
     "runtime-main.js.map": "/contactmanager/static/js/runtime-main.a2c60360.js.map",
     "static/css/2.47e06e2e.chunk.css": "/contactmanager/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.b3aa5257.chunk.js": "/contactmanager/static/js/2.b3aa5257.chunk.js",
-    "static/js/2.b3aa5257.chunk.js.map": "/contactmanager/static/js/2.b3aa5257.chunk.js.map",
+    "static/js/2.325c0841.chunk.js": "/contactmanager/static/js/2.325c0841.chunk.js",
+    "static/js/2.325c0841.chunk.js.map": "/contactmanager/static/js/2.325c0841.chunk.js.map",
     "index.html": "/contactmanager/index.html",
-    "precache-manifest.03545e1bf1ac39c8ece23a340ccf15f2.js": "/contactmanager/precache-manifest.03545e1bf1ac39c8ece23a340ccf15f2.js",
+    "precache-manifest.8f6a2211ef0e952dfc96e16dfde5cf2d.js": "/contactmanager/precache-manifest.8f6a2211ef0e952dfc96e16dfde5cf2d.js",
     "service-worker.js": "/contactmanager/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/contactmanager/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.5facb584.chunk.css.map": "/contactmanager/static/css/main.5facb584.chunk.css.map",
-    "static/js/2.b3aa5257.chunk.js.LICENSE": "/contactmanager/static/js/2.b3aa5257.chunk.js.LICENSE"
+    "static/js/2.325c0841.chunk.js.LICENSE": "/contactmanager/static/js/2.325c0841.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.a2c60360.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.b3aa5257.chunk.js",
+    "static/js/2.325c0841.chunk.js",
     "static/css/main.5facb584.chunk.css",
-    "static/js/main.1303fe4f.chunk.js"
+    "static/js/main.4ff03063.chunk.js"
   ]
 }
